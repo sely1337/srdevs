@@ -1,0 +1,7 @@
+{
+    "version": "3.1",
+    "release_date": "2026-10-31",
+    "changelog": "Cloudflare lisans motoru, antiimport erisimi ve shared dosyalari MTA Luac 3 destegi.",
+    "update_url": "https://raw.githubusercontent.com/sely1337/srdevs/main/update.enc",
+    "file_size": 289644
+}
